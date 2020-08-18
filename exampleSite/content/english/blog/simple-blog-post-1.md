@@ -7,6 +7,7 @@ author: AbbyDabby
 description: lol
 category:
 - Maths
+- Math
 
 ---
 Ola amigos this is my first post lets check it out
