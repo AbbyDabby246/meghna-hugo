@@ -5,6 +5,8 @@ image_webp: images/blog/blog-post-3.webp
 image: images/blog/blog-post-3.jpg
 author: AbbyDabby
 description: lol
+category:
+- Maths
 
 ---
 Ola amigos this is my first post lets check it out
