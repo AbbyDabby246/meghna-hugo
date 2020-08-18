@@ -22,8 +22,3 @@ fields:
   name: description
   label: description
   description: meta description
-- name: anything
-  type: text
-  config:
-    required: false
-  label: anything
