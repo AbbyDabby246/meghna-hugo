@@ -1,3 +1,6 @@
+---
+- id: categories
+  translation: ''
 - id: blogTitle
   translation: Latest Post
 - id: readMore
